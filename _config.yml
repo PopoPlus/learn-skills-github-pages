@@ -1,3 +1,4 @@
-theme: minima,
-title: "CoderEx",
+theme: minima
+title: "CoderEx"
 author: "王梓舟"
+description: "More possibilities for coder"
